@@ -1,7 +1,7 @@
 # Vagrant SPARK
 
 ## Installation
-* Git clone git@git-ssh.web.boeing.com:fgac/vagrant-spark.git
+* Git clone project
 * cd vagrant-spark
 * vagrant up
 
